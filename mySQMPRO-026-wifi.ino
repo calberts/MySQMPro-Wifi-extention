@@ -3,8 +3,13 @@
 
 // (c) Copyright Robert Brown 2014-2019. All Rights Reserved.
 // This project is protected by International Copyright Law.
+// https://sourceforge.net/projects/arduinomysqmskyqualitymeter/files/mySQMPRO/ Original Source
 // Permission is granted for personal and Academic/Educational use only.
 // Software distributed under MIT License https://opensource.org/licenses/MIT
+//
+// THis fork which extent the code with WIfi based up on the NodeMCU 12E 
+// Created By Chris ALberts
+//
 //
 // REQUIRES LCD1602, LCD1604, LCD2004 or OLED I2C DISPLAY
 
