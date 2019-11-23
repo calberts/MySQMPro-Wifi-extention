@@ -3,5 +3,5 @@
 https://sourceforge.net/projects/arduinomysqmskyqualitymeter/files/mySQMPRO/
 So al credits are to him
 This is only a extention toreport the values to blynk via wifi
-So this code is modification
+So this is the code from Robert mySQMPRO-026-wifi.ino which i modified to communicatde with the MC 
 
